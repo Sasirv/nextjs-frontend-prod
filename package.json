@@ -9,7 +9,9 @@
     "lint": "eslint"
   },
   "dependencies": {
-    "next": "16.1.4",
+    "cross-spawn": "^7.0.5",
+    "glob": "^11.1.0",
+    "next": "^16.1.5",
     "react": "19.2.3",
     "react-dom": "19.2.3"
   },
@@ -24,3 +26,6 @@
     "typescript": "^5"
   }
 }
+
+
+
